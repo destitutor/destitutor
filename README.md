@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [https://blog.hexabrain.net](https://blog.hexabrain.net)
 
-- 📫 How to reach me **layer6ai@gmail.com**
+- 📫 How to reach me **binarybard@pm.me**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
