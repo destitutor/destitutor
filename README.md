@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm LAYER6AI</h1>
+<h1 align="center">Hi 👋, I'm BINARYBARD</h1>
 <h3 align="center">A passionate backend developer from Korea</h3>
 
 - 🌱 I’m currently learning **Go language**
